@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <picture>
- <img alt="stuff" src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg">
+ <img src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg">
 </picture>
 
 
