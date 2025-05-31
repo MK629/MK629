@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 <picture>
- <img src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg">
+ <source srcset="https://en.wikipedia.org/wiki/Java_(programming_language)">
 </picture>
+
 
 
 <!--
