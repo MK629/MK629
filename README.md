@@ -54,7 +54,7 @@
 <br>
 <br>
 
-<h2>🏯 My dojo of choice</h2>
+<h2>🏯 My dojo of choice, of course...</h2>
 <p>
   <img src="assets/Tux.png" width="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/Debian.png" width="80"/>
