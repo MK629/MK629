@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<picture>
- <source srcset="https://en.wikipedia.org/wiki/Java_(programming_language)">
-</picture>
 
 
 
