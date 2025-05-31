@@ -9,6 +9,8 @@
 <br>
 <br>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK629&theme=buefy&show_icons=true)
+
 
 <h2>🪄 For my frontend, I invoke the magic of...</h2>
 <p>
