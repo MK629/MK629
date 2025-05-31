@@ -1,4 +1,4 @@
 🧰 **Tech Stack**
 
-![Java](assets/Java.svg)
+![Java](assets/Java.png)
 
