@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<picture>
+ <img alt="stuff" src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg">
+</picture>
+
+
 <!--
 **MK629/MK629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
