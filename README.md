@@ -5,7 +5,7 @@
 <br>
 <br>
 
-**Within lies Java, Spring-Boot, React and... a bit of GDScript — tread wisely, travaler.**
+**Within lies Java, Spring-Boot, React and... a bit of GDScript — tread wisely, traveler.**
 
 <br>
 <br>
