@@ -57,7 +57,7 @@
 <br>
 
 # 🖥️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK629&theme=radical&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK629&theme=dracula&show_icons=true)
 
 # 🐧 Hail, the almighty penguin!!!
 <p>
