@@ -1,5 +1,5 @@
 # ⛩️ ようこそ、旅人  
-**You’ve arrived at the sacred gate of inconsistent commits, half-finished personal projects(got bored) and and TODOs whispered into the void.**
+**You’ve arrived at the sacred gate of inconsistent commits and half-finished projects(got bored).**
 
 # 🖥️ Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK629&theme=dracula&show_icons=true)
