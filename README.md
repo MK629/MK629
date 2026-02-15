@@ -26,7 +26,7 @@
 
 ---
 
-<h3 style="font-family: 'JetBrains Mono', monospace;">Databases [===]</h3>
+<h3 style="font-family: 'JetBrains Mono Regular', monospace;">Databases [===]</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="./assets/PostgreSQL.png" width="150" height="150"/>
   <img src="./assets/MySQL.png" width="150" height="150"/>
